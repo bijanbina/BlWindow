@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Fonts/fa6-brands.ttf</file>
+        <file>Fonts/fa6-reg.ttf</file>
+        <file>Fonts/fa6-solid.ttf</file>
+        <file>Fonts/Roboto-Regular.ttf</file>
+        <file>Fonts/Roboto-Medium.ttf</file>
+        <file>Fonts/segoe-mdl2-assets.ttf</file>
+    </qresource>
+</RCC>
